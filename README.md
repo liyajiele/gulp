@@ -33,3 +33,4 @@ npm install --save-dev gulp`(作为项目的开发依赖安装)`<br>
     npm install gulp-imagemin --sava-dev
     var gulp=require('gulp');
     var imagemin=require('gulp-imagemin');
+[参考网址]（www.cnblogs.com/fx2008/9/6053999.html）
