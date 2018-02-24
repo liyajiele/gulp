@@ -22,7 +22,7 @@ npm install --save-dev gulp`(作为项目的开发依赖安装)`<br>
     var gulp=require('gulp');
     var cssnano=require('gulp-cssnano');
 ##### 重命名<br>
-    npm install gulp-rename --sava-dev
+    npm install gulp-rename --sava-dev
     var gulp=require('gulp');
     var rename=require('gulp-rename');
 ##### 文件打包，多个合并为一个<br>
