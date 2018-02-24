@@ -6,6 +6,10 @@ npm install --global gulp`(全局安装gulp)`<br>
 npm install --save-dev gulp`(作为项目的开发依赖安装)`<br>
 ## 安装插件`(需在gulp文件目录下安装)`<br>
 ##### less转css<br>
-    npm install gulp-less --save-dev<br>
+    npm install gulp-less --save-dev
     var gulp=require('gulp');
     var less=require('gulp-less');
+##### js转min.js<br>
+    npm install gulp-uglify --sava-dev
+    var gulp=require('gulp');
+    var less=require('gulp-uglify');
